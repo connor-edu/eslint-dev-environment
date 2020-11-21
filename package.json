@@ -1,0 +1,20 @@
+{
+  "name": "uncc-quiz10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dotconnor/uncc-quiz10.git",
+  "author": "Connor Love <connor@dotconnor.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint *.js && prettier --write ."
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.14.0",
+    "eslint-config-a1motion": "^3.4.1",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-formatter-pretty": "^4.0.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.2.0"
+  }
+}
